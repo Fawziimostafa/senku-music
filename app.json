@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/RAICHUNETWORK",
-    "repository": "https://github.com/Devilharsha/Senku-video-and-music-player",
+    "repository": "https://github.com/Fawziimostafa/senku-music",
     "success_url": "https://t.me/SENKUBOTS",
     "env": {
         "API_ID": {
